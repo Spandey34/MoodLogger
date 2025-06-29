@@ -17,7 +17,7 @@ Mood Logger is a **Single Page Application (SPA)** built with **Vite + React** t
 ## 🎯 How to Use  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/mood-logger.git
+   git clone https://github.com/Spandey34/mood-logger.git
    cd mood-logger
    ```
 2. **Install dependencies**  
